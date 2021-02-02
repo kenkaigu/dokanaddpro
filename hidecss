@@ -1,0 +1,9 @@
+.dokan-product-inventory,
+.dokan-product-shipping-tax,
+.dokan-attribute-variation-options,
+.dokan-linked-product-options,
+.dokan-discount-options,
+.dokan-rma-options,
+.dokan-other-options{
+display: none !important;
+}
